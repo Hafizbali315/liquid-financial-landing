@@ -209,7 +209,7 @@ const Home = () => {
           <div id="carouselExampleIndicators" className="carousel slide" data-bs-ride="carousel">
 
             <div className="carousel-inner">
-              <div className="carousel-item active" data-bs-interval="40000">
+              <div className="carousel-item active" data-bs-interval="4000">
                 <div className="cards card1">
                   <div className="row">
                     <div className="col-md-6 sym">
@@ -222,7 +222,7 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-              <div className="carousel-item" data-bs-interval="40000">
+              <div className="carousel-item" data-bs-interval="4000">
                 <div className="cards card2">
                   <div className="row">
                     <div className="col-md-6 sym">
@@ -236,7 +236,7 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-              <div className="carousel-item" data-bs-interval="40000">
+              <div className="carousel-item" data-bs-interval="4000">
                 <div className="cards card3">
                   <div className="row">
                     <div className="col-md-6 sym">
@@ -252,7 +252,7 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-              <div className="carousel-item " data-bs-interval="40000">
+              <div className="carousel-item " data-bs-interval="4000">
                 <div className="cards card4">
                   <div className="row">
                     <div className="col-md-6 sym">
@@ -266,7 +266,7 @@ const Home = () => {
                   </div>
                 </div>
               </div>
-              <div className="carousel-item" data-bs-interval="40000">
+              <div className="carousel-item" data-bs-interval="4000">
                 <div className="cards card5">
                   <div className="row">
                     <div className="col-md-6 sym">

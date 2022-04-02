@@ -875,7 +875,7 @@
    text-align: center;
  }
 
- @media screen and (max-width:1350px){
+ @media screen and (min-width:768px) and (max-width:1350px){
   .footer .second-links li{
   
     margin-left: 80px;
@@ -899,6 +899,9 @@
   .footer img{
   width: 80px;
   margin-left: 30px !important;
+  }
+  .footer .links li{
+    margin-left: 0px !important;
   }
  }
  
