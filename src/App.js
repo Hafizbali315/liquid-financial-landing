@@ -1,15 +1,19 @@
 import './App.css';
-import {Route,Routes} from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import Home from './Pages/Home';
+import { BrowserRouter as Router } from 'react-router-dom';
 
 
 function App() {
   return (
     <div>
-         <Routes>
-         <Route exact path="/" element={<Home />} />  
+      <Router>
+
+        <Routes>
+          <Route exact path="/" element={<Home />} />
         </Routes>
-     </div>
+      </Router>
+    </div>
   );
 }
 

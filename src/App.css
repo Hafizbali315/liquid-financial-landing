@@ -832,9 +832,16 @@
   color: grey;
 }
 
+.footer .row{
+  margin-right: 0px !important;
+}
+
 .footer {
   color: white;
   text-align: left;
+}
+.footer .links li{
+  margin-left: 50px !important;
 }
 .footer .row{
   padding: 50px 0px;

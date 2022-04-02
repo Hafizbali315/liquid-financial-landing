@@ -285,7 +285,7 @@ const Home = () => {
             <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
 
               <span className="arrow-left" aria-hidden="true">
-                <i class="fa-solid fa-arrow-left"></i>
+                <i className="fa-solid fa-arrow-left"></i>
               </span>
               <span className="visually-hidden"></span>
 
@@ -293,7 +293,7 @@ const Home = () => {
             <button className="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
 
               <span className="arrow-right" aria-hidden="true">
-                <i class="fa-solid fa-arrow-right"></i>
+                <i className="fa-solid fa-arrow-right"></i>
               </span>
               <span className="visually-hidden"></span>
 
